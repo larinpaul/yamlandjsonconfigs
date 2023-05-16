@@ -1,0 +1,17 @@
+[
+  {
+    "Key": "app/ftp/port1",
+    "Value": 1,
+    "Stuff": 0
+  },
+  {
+    "Key": "app/sftp/host2",
+    "Value": "2.2.2.2",
+    "Stuff": 0
+  },
+  {
+    "Key": "app/sftp/port3",
+    "Value": 3,
+    "Stuff": 0
+  }
+]
